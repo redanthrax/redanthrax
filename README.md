@@ -8,7 +8,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redanthrax)](https://github.com/redanthrax/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redanthrax&layout=compact&theme=dark)](https://github.com/redanthrax/github-readme-stats)
 
 
 [website]: https://redanthrax.com
